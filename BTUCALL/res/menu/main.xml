@@ -4,9 +4,9 @@
     tools:context="com.btucall.MainActivity" >
 
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/teste"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="teste"
         app:showAsAction="never"/>
 
 </menu>

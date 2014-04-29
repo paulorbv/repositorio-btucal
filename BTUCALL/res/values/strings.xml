@@ -5,7 +5,7 @@
     <string name="label_metros">Metragem:</string>
     <string name="label_pessoas">Pessoas:</string>
     <string name="label_equipamento">Eletronicos:</string>
-    <string name="label_isolado">Casa com Isolação ou Cobertura:</string>
+    <string name="label_isolado">Casa com Isolação ou Cobertura?</string>
     <string name="label_LimparCampos">Limpar Campos</string>
     <string name="label_Calcular">Calcular</string>
     
