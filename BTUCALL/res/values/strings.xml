@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BTUCALL</string>
+    <string name="label_metros">Metragem:</string>
+    <string name="label_pessoas">Pessoas:</string>
+    <string name="label_equipamento">Eletronicos:</string>
+    <string name="label_isolado">Casa com Isolação ou Cobertura:</string>
+    <string name="label_LimparCampos">Limpar Campos</string>
+    <string name="label_Calcular">Calcular</string>
+    
+
+
+</resources>
